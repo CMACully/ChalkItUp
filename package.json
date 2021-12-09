@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "chalk-animation": "^1.6.0",
+    "gradient-string": "^2.0.0"
+  },
+  "name": "chalk-it-up",
+  "version": "1.0.0",
+  "description": "Chalk it Up using NPM",
+  "main": "(scripts.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CMAC",
+  "license": "ISC",
+  "type": "module"
+}
